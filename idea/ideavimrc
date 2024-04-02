@@ -73,3 +73,11 @@ sethandler <C-X> a:ide
 sethandler <C-Y> a:ide
 sethandler <C-[> a:ide
 sethandler <C-]> a:ide
+
+" Mappings
+
+vmap > >gv
+vmap < <gv
+
+:map <C-S-k> <Action>(MoveStatementUp)
+:map <C-S-j> <Action>(MoveStatementDown)
