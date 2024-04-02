@@ -1,0 +1,7 @@
+[user]
+        email = darmesharman@gmail.com
+        name = Arman Darmesh
+[core]
+        editor = nvim
+[rebase]
+	abbreviateCommands = true
