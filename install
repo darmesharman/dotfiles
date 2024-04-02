@@ -15,3 +15,7 @@ ln -sf $DOTFILES/zsh/zshrc $HOME/.zshrc
 
 # idea
 ln -sf $DOTFILES/idea/ideavimrc $HOME/.ideavimrc
+
+# nvim
+rm -rf $HOME/.config/nvim
+ln -s $DOTFILES/nvim $HOME/.config/nvim

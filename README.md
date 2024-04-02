@@ -27,3 +27,11 @@ I use [Idea](https://www.jetbrains.com/idea/) as my main IDE.
 After installing, we can download plugin IdeaVim
 
 Then we can run install script
+
+## Nvim
+
+I use [Nvim](https://neovim.io/) as my secondary text editor.
+
+We need to install at least nvim 0.7
+
+After installing, we can run install script
