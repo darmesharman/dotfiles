@@ -5,3 +5,7 @@ DOTFILES=$(cd $(dirname "${BASH_SOURCE}") && pwd)
 # git
 ln -sf $DOTFILES/git/gitconfig $HOME/.gitconfig
 ln -sf $DOTFILES/git/gitignore $HOME/.gitignore
+
+# kitty terminal
+rm -rf $HOME/.config/kitty
+ln -s $DOTFILES/kitty $HOME/.config/kitty

@@ -7,3 +7,9 @@ After installing necessary software, just run ./install script
 ## Git
 
 I use git as my version control system. Install git and run script.
+
+## Kitty Terminal
+
+I use kitty terminal as my default terminal emulator.
+
+After installing kitty, you can run ./install script.
