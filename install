@@ -9,3 +9,6 @@ ln -sf $DOTFILES/git/gitignore $HOME/.gitignore
 # kitty terminal
 rm -rf $HOME/.config/kitty
 ln -s $DOTFILES/kitty $HOME/.config/kitty
+
+# zsh
+ln -sf $DOTFILES/zsh/zshrc $HOME/.zshrc

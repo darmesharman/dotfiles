@@ -13,3 +13,9 @@ I use git as my version control system. Install git and run script.
 I use kitty terminal as my default terminal emulator.
 
 After installing kitty, you can run ./install script.
+
+## Zsh
+
+I use [Oh My Zsh](https://ohmyz.sh/) as my zsh configuration manager.
+
+First we need to install zsh and oh-my-zsh, and then run ./install script
