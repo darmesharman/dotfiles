@@ -19,3 +19,11 @@ After installing kitty, you can run ./install script.
 I use [Oh My Zsh](https://ohmyz.sh/) as my zsh configuration manager.
 
 First we need to install zsh and oh-my-zsh, and then run ./install script
+
+## Idea
+
+I use [Idea](https://www.jetbrains.com/idea/) as my main IDE.
+
+After installing, we can download plugin IdeaVim
+
+Then we can run install script

@@ -12,3 +12,6 @@ ln -s $DOTFILES/kitty $HOME/.config/kitty
 
 # zsh
 ln -sf $DOTFILES/zsh/zshrc $HOME/.zshrc
+
+# idea
+ln -sf $DOTFILES/idea/ideavimrc $HOME/.ideavimrc
